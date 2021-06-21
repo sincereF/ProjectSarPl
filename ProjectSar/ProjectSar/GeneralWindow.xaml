@@ -1,0 +1,122 @@
+﻿<Window x:Name="generalWindow" x:Class="ProjectSar.GeneralWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectSar"
+        mc:Ignorable="d"
+        Title="GeneralWindow" Height="920" Width="1700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="underground.png">
+    <Window.Background>
+        <ImageBrush ImageSource="фон123.jpg"/>
+    </Window.Background>
+    <Grid x:Name="generalGrid">
+        <Border x:Name="generalBorder" BorderThickness="0" Height="36" VerticalAlignment="Top" Background="#FF20253B" MouseDown="generalBorder_MouseDown" Margin="4,0,0,0">
+            <Button x:Name="generalCloseButton" Content="X" Margin="1660,0,0,0" Foreground="Red" FontSize="20" FontWeight="Bold" Background="#FF20253B" BorderBrush="#FF20253B" Padding="0" Width="36" Click="Button_Click" BorderThickness="0"/>
+        </Border>
+        <Button x:Name="backButton" Content="&lt;—" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="56" Height="36" FontSize="20" Foreground="Red" Background="#FF20253B" BorderBrush="#FF20253B" FontWeight="Bold" Padding="0" BorderThickness="0" Click="backButton_Click" Margin="0,0,0,884"/>
+        <Grid x:Name="generalGridBorder" HorizontalAlignment="Left" Margin="70,110,0,239" Width="434">
+            <Border x:Name="generalBorder1" BorderBrush="#FF403F3F" BorderThickness="1" HorizontalAlignment="Right" Height="571" VerticalAlignment="Top" Width="434">
+                <Border.Background>
+                    <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+                </Border.Background>
+                <Button x:Name="ticketsButton" Content="Билеты" Margin="33,259,33,267" Foreground="#FFE06D18" BorderBrush="#FFE06D18" BorderThickness="3" FontSize="18" Click="ticketsButton_Click" FontWeight="Bold">
+                    <Button.Background>
+                        <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                    </Button.Background>
+                </Button>
+            </Border>
+            <Button x:Name="flightsButton" Content="Информация о рейсах" VerticalAlignment="Top" Margin="33,315,33,0" Height="43" Foreground="#FFE06D18" BorderBrush="#FFE06D18" BorderThickness="3" FontSize="18" Click="FlightsButton_Click" FontWeight="Bold" Padding="1" UseLayoutRounding="False">
+                <Button.Background>
+                    <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="passengersButton" Content="Информация о пассажирах" Margin="33,371,33,0" VerticalAlignment="Top" Height="43" Foreground="#FFE06D18" BorderBrush="#FFE06D18" BorderThickness="3" FontSize="18" Click="PassengersButton_Click" FontWeight="Bold">
+                <Button.Background>
+                    <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="labelAll" Content="" Margin="33,25,33,0" VerticalAlignment="Top" Height="202" BorderBrush="White" Foreground="White" BorderThickness="2">
+                <Label.Background>
+                    <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="labelWorkOne" Content="" Margin="196,25,43,503" BorderBrush="White" Foreground="White" Background="{x:Null}" BorderThickness="0,0,0,2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" FontWeight="Bold"/>
+            <Label x:Name="labelWorkTwo" Content="" Margin="196,73,43,455" BorderBrush="White" Foreground="White" Background="{x:Null}" BorderThickness="0,0,0,2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" FontWeight="Bold"/>
+            <Label x:Name="labelWorkThree" Content="" Margin="196,121,43,407" BorderBrush="White" Foreground="White" Background="{x:Null}" BorderThickness="0,0,0,2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" FontWeight="Bold"/>
+            <Button x:Name="buttonCode" Content="Штрих-код" HorizontalAlignment="Left" Margin="33,440,0,0" VerticalAlignment="Top" Width="171" Height="42" Click="buttonCode_Click" FontSize="18" BorderThickness="3" BorderBrush="#FFE06D18" Foreground="#FFE06D18" FontWeight="Bold">
+                <Button.Background>
+                    <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                </Button.Background>
+            </Button>
+            <Image x:Name="imageCode" Height="104" Margin="230,438,33,0" VerticalAlignment="Top" Stretch="Fill"/>
+            <Border x:Name="borderCode" BorderBrush="White" BorderThickness="3" Height="104" Margin="230,438,33,0" VerticalAlignment="Top"/>
+            <Button Content="Очистить" HorizontalAlignment="Left" Margin="33,496,0,0" VerticalAlignment="Top" Width="171" Height="42" Foreground="#FFE06D18" BorderBrush="#FFE06D18" FontSize="18" FontWeight="Bold" BorderThickness="3" Click="Button_Click_1">
+                <Button.Background>
+                    <SolidColorBrush Color="#FF445070" Opacity="0.5"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <ListView x:Name="generalListView" Margin="558,110,70,176" SelectionChanged="generalListView_SelectionChanged" Foreground="#FFE06D18" FontSize="16" Visibility="Hidden">
+            <ListView.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Номер билета" Width="100" DisplayMemberBinding="{Binding ticketnum}"/>
+                    <GridViewColumn Header="Номер рейса" Width="100" DisplayMemberBinding="{Binding flightnum}"/>
+                    <GridViewColumn Header="Рейс" Width="90" DisplayMemberBinding="{Binding flight}"/>
+                    <GridViewColumn Header="Отправление" Width="90" DisplayMemberBinding="{Binding timedep}"/>
+                    <GridViewColumn Header="Прибытие" Width="95" DisplayMemberBinding="{Binding timearr}"/>
+                    <GridViewColumn Header="Номер поезда" Width="100" DisplayMemberBinding="{Binding trainnum}"/>
+                    <GridViewColumn Header="Номер вагона" Width="110" DisplayMemberBinding="{Binding vannum}"/>
+                    <GridViewColumn Header="Тип вагона" Width="80" DisplayMemberBinding="{Binding van}"/>
+                    <GridViewColumn Header="Пассажир" Width="110" DisplayMemberBinding="{Binding passenger}"/>
+                    <GridViewColumn Header="Паспорт" Width="110" DisplayMemberBinding="{Binding passengerinfo}"/>
+                    <GridViewColumn Header="Стоимость" Width="80" DisplayMemberBinding="{Binding cost}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="generalListViewTwo" Margin="558,110,70,176" BorderBrush="#FF403F3F" Foreground="#FFE06D18" FontSize="16" Visibility="Hidden">
+            <ListView.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Номер рейса" Width="180" DisplayMemberBinding="{Binding flightnumtwo}"/>
+                    <GridViewColumn Header="Рейс" Width="310" DisplayMemberBinding="{Binding flighttwo}"/>
+                    <GridViewColumn Header="Время отправления" Width="180" DisplayMemberBinding="{Binding timedeptwo}"/>
+                    <GridViewColumn Header="Время прибытия" Width="180" DisplayMemberBinding="{Binding timearrtwo}"/>
+                    <GridViewColumn Header="Номер поезда" Width="210" DisplayMemberBinding="{Binding trainnumtwo}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="generalListViewThree" Height="634" Margin="558,110,70,0" BorderBrush="#FF403F3F" Foreground="#FFE06D18" FontSize="16" VerticalAlignment="Top" Visibility="Hidden">
+            <ListView.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ФИО пассажира" Width="300" DisplayMemberBinding="{Binding FIOthree}"/>
+                    <GridViewColumn Header="Номер рейса" Width="200" DisplayMemberBinding="{Binding flightnumthree}"/>
+                    <GridViewColumn Header="Паспортные данные" Width="240" DisplayMemberBinding="{Binding passportthree}"/>
+                    <GridViewColumn Header="Возраст" Width="160" DisplayMemberBinding="{Binding agethree}"/>
+                    <GridViewColumn Header="Пол" Width="160" DisplayMemberBinding="{Binding sexthree}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image x:Name="imageTwo" Margin="1480,784,70,36" Source="Image3.png" Stretch="Fill" Height="100" Width="150">
+            <Image.OpacityMask>
+                <SolidColorBrush Color="Black" Opacity="0.87"/>
+            </Image.OpacityMask>
+        </Image>
+        <Image x:Name="imageWork" HorizontalAlignment="Left" Height="128" Margin="112,149,0,0" VerticalAlignment="Top" Width="145" Stretch="Fill"/>
+        <Label x:Name="labelPost" Content="" HorizontalAlignment="Left" Margin="104,290,0,0" VerticalAlignment="Top" Width="362" Height="43" Foreground="White" Background="{x:Null}" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"/>
+        <Border x:Name="borderImage" BorderBrush="White" BorderThickness="3" HorizontalAlignment="Left" Height="128" Margin="112,149,0,0" VerticalAlignment="Top" Width="145"/>
+        <Label x:Name="labelTime" Content="" HorizontalAlignment="Left" Margin="70,686,0,0" VerticalAlignment="Top" Height="58" Width="434" BorderBrush="#FF403F3F" FontSize="18" Foreground="#FFE06D18" BorderThickness="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold">
+            <Label.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </Label.Background>
+        </Label>
+
+    </Grid>
+</Window>

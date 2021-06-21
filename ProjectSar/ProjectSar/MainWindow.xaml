@@ -1,0 +1,49 @@
+﻿<Window x:Name="Authorization" x:Class="ProjectSar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectSar"
+        mc:Ignorable="d"
+        Title="Authorization" Height="600" Width="800" WindowStyle="None" BorderThickness="0" MaxWidth="800" MaxHeight="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="login.png">
+    <Grid x:Name="mainGrid" Width="800" Height="600">
+        <Grid.Background>
+            <ImageBrush x:Name="mainImage" ImageSource="для фона.jpg"/>
+        </Grid.Background>
+        <Border x:Name="mainBorder" BorderThickness="0" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="800" Background="#FF20253B" MouseDown="mainBorder_MouseDown">
+            <Button x:Name="mainCloseButton" Content="X" Margin="764,0,0,0" Foreground="Red" FontSize="20" FontWeight="Bold" Background="#FF20253B" BorderBrush="#FF20253B" Padding="0" Width="36" Click="Button_Click"/>
+        </Border>
+        <Border x:Name="authorizationBorder" BorderThickness="1" Margin="180,70,180,40" BorderBrush="#FF403F3F">
+            <Border.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </Border.Background>
+            <Label x:Name="authorizationLabel" Content="Авторизация" Margin="-1,9,-1,417" HorizontalAlignment="Center" VerticalAlignment="Center" Width="440" Height="62" HorizontalContentAlignment="Center" Padding="0" FontSize="40" Foreground="#FFE06D18" Background="{x:Null}"/>
+        </Border>
+        <TextBox x:Name="loginTextBox" Margin="234,191,234,375" TextWrapping="Wrap" Background="{x:Null}" BorderBrush="White" Padding="1" BorderThickness="2" VerticalContentAlignment="Center" FontSize="16" Foreground="White"/>
+        <TextBox x:Name="passwordTextBox" Margin="234,261,234,305" TextWrapping="Wrap" Background="{x:Null}" BorderBrush="White" Padding="1" BorderThickness="2" VerticalContentAlignment="Center" FontSize="16" Foreground="White"/>
+        <PasswordBox x:Name="passwordBox" Margin="234,261,234,305" Height="34" Background="{x:Null}" BorderBrush="White" Foreground="White" BorderThickness="2" FontSize="16" VerticalContentAlignment="Center" Padding="1"/>
+        <Label x:Name="loginLabel" Content="Логин" Margin="234,160,485,0" VerticalAlignment="Top" Foreground="#FFE06D18" FontSize="16" VerticalContentAlignment="Bottom"/>
+        <Label x:Name="passwordLabel" Content="Пароль" Margin="234,230,485,0" VerticalAlignment="Top" Foreground="#FFE06D18" FontSize="16" VerticalContentAlignment="Bottom"/>
+        <CheckBox x:Name="showPassword" Content="Показать пароль" Margin="234,300,234,283" Background="White" BorderBrush="{x:Null}" Foreground="White" FontSize="13" Click="showPassword_Click"/>
+        <Button x:Name="loginButton" Content="ВХОД" Margin="299,477,299,65" Background="{x:Null}" Foreground="#FFE06D18" BorderBrush="#FFE06D18" FontSize="36" VerticalContentAlignment="Center" Padding="1,1,1,5" BorderThickness="2" Click="loginButton_Click"/>
+        <TextBox x:Name="captchaGenTextBox" Margin="259,366,299,200" TextWrapping="Wrap" Background="{x:Null}" BorderBrush="White" Padding="1" BorderThickness="2" VerticalContentAlignment="Center" FontSize="22" Foreground="White" HorizontalContentAlignment="Center" IsReadOnly="True" FontFamily="Kristen ITC" Visibility="Hidden"/>
+        <TextBox x:Name="captchaTextBox" Margin="259,410,259,156" TextWrapping="Wrap" Background="{x:Null}" BorderBrush="White" Padding="1" BorderThickness="2" VerticalContentAlignment="Center" FontSize="16" Foreground="White" Visibility="Hidden"/>
+        <Label x:Name="captchaLabel" Content="Пройдите проверку" Margin="259,335,372,0" VerticalAlignment="Top" Foreground="#FFE06D18" FontSize="16" VerticalContentAlignment="Bottom" Visibility="Hidden"/>
+        <Button x:Name="refreshButton" HorizontalAlignment="Left" Margin="506,366,0,0" VerticalAlignment="Top" Width="35" Height="34" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="refreshButton_Click" Visibility="Hidden">
+            <Button.Background>
+                <ImageBrush ImageSource="refresh_reload_update_arrow_icon_179153.png"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="blockLabel" Content="" Margin="53,92,53,445" BorderThickness="0" FontSize="40" Foreground="#FFE06D18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Visibility="Hidden">
+            <Label.Background>
+                <SolidColorBrush Color="#FF20253B" Opacity="0.85"/>
+            </Label.Background>
+        </Label>
+        <Label Content="Если вы забыли пароль, обратитесь к администратору" HorizontalAlignment="Left" Margin="180,565,0,0" VerticalAlignment="Top" Width="440" Background="{x:Null}" Foreground="#FFE06D18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Image x:Name="imageOne" Margin="664,490,36,40" Source="Image4.png" Stretch="Fill" Width="100" Height="70">
+            <Image.OpacityMask>
+                <SolidColorBrush Color="Black" Opacity="0.87"/>
+            </Image.OpacityMask>
+        </Image>
+    </Grid>
+</Window>

@@ -1,0 +1,168 @@
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe.config
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\bin\Debug\ProjectSar.pdb
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\MainWindow.g.cs
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\App.g.cs
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.cache
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.lref
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\MainWindow.baml
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.g.resources
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.Properties.Resources.resources
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.exe
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\ProjectSar.pdb
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.g.cs
+C:\Users\Даниил\source\repos\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.baml
+D:\Практическая Плюснина\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe.config
+D:\Практическая Плюснина\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe
+D:\Практическая Плюснина\ProjectSar\ProjectSar\bin\Debug\ProjectSar.pdb
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csprojAssemblyReference.cache
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.g.cs
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\MainWindow.g.cs
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\App.g.cs
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.cache
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.lref
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.baml
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\MainWindow.baml
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.g.resources
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.Properties.Resources.resources
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.GenerateResource.cache
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.CoreCompileInputs.cache
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.exe
+D:\Практическая Плюснина\ProjectSar\ProjectSar\obj\Debug\ProjectSar.pdb
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe.config
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\ProjectSar.exe
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\ProjectSar.pdb
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csprojAssemblyReference.cache
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.g.cs
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\MainWindow.g.cs
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\App.g.cs
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.cache
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar_MarkupCompile.lref
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\GeneralWindow.baml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\MainWindow.baml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.g.resources
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.Properties.Resources.resources
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.GenerateResource.cache
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.CoreCompileInputs.cache
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.exe
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.pdb
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\netstandard.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.AppContext.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Collections.Concurrent.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Collections.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Collections.NonGeneric.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Collections.Specialized.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ComponentModel.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Console.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Data.Common.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.Debug.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.Process.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.Tools.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Drawing.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Dynamic.Runtime.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Globalization.Calendars.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Globalization.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Globalization.Extensions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.Compression.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.FileSystem.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.Pipes.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Linq.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Linq.Expressions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Linq.Parallel.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Linq.Queryable.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Http.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.NameResolution.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.NetworkInformation.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Ping.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Requests.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Security.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.Sockets.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Net.WebSockets.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ObjectModel.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Reflection.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Reflection.Extensions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Reflection.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Resources.Reader.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Resources.ResourceManager.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Resources.Writer.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Extensions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Handles.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.InteropServices.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Numerics.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Claims.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.Principal.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Security.SecureString.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Encoding.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.RegularExpressions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Overlapped.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Tasks.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Thread.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.ThreadPool.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Timer.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.XDocument.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.XmlDocument.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.XPath.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\BarcodeStandard.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Buffers.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Drawing.Common.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Memory.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Numerics.Vectors.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Encodings.Web.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Json.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ValueTuple.dll
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Buffers.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Memory.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Numerics.Vectors.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Encodings.Web.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Text.Json.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\bin\Debug\System.ValueTuple.xml
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.exe.config
+F:\Для колледжа\Практическая Плюснина new\ProjectSar\ProjectSar\obj\Debug\ProjectSar.csproj.CopyComplete
